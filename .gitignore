@@ -1,3 +1,5 @@
 .ipynb_checkpoints
 datasets/~$extremism.xlsx
 models/bert-1600-1.zip
+models/bert/tf_model.preproc
+models/bert/tf_model.h5
