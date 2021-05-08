@@ -3,3 +3,16 @@ datasets/~$extremism.xlsx
 models/bert-1600-1.zip
 models/bert/tf_model.preproc
 models/bert/tf_model.h5
+models/bert-1600-2.zip
+models/bert-2/tf_model.preproc
+models/bert-2/tf_model.preproc
+models/bert-2/tf_model.h5
+datasets/kaggleDatasets/test.csv
+datasets/kaggleDatasets/labeled.csv
+datasets/kaggleDatasets/IRAhandle_tweets_7.csv
+datasets/kaggleDatasets/train.csv
+datasets/kaggleDatasets/dataset.txt
+datasets/kaggleDatasets/IRAhandle_tweets_6.csv
+datasets/kaggleDatasets/test (2).csv
+*.pyc
+web/venv
